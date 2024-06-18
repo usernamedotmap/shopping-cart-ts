@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Pancake",
+    "price": 200,
+    "imgUrl": "/imgs/skincare.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pancake with syrup",
+    "price": 100,
+    "imgUrl": "/imgs/drugs.jpg"
+  },
+  { 
+    "id": 3,
+    "name": "Pankeki",
+    "price": 120,
+    "imgUrl": "/imgs/car.jpg"
+  }
+]
